@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+#build settings
+markdown: kramdown
+theme: Cayman
